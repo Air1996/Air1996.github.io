@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://air1996.github.io</id>
     <title>Twilight</title>
-    <updated>2020-05-20T11:43:46.110Z</updated>
+    <updated>2020-05-21T01:04:40.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://air1996.github.io"/>
     <link rel="self" href="https://air1996.github.io/atom.xml"/>
@@ -16,8 +16,7 @@
         <link href="https://air1996.github.io/post/hello-twilight/">
         </link>
         <updated>2020-04-20T06:12:30.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yanxuan.nosdn.127.net/20637c6a1e9da7477e8f62d7bc0f6612.jpeg" alt="" loading="lazy"></figure>
-<p>我见青山多妩媚，料青山，见我应如是</p>
+        <content type="html"><![CDATA[<p>我见青山多妩媚，料青山，见我应如是</p>
 ]]></content>
     </entry>
 </feed>
